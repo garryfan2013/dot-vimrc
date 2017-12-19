@@ -25,7 +25,7 @@ Bundle 'tomtom/tlib_vim'
 "-----------------
 " Fast navigation
 "-----------------
-Bundle 'edsono/vim-matchit'
+"Bundle 'edsono/vim-matchit'
 Bundle 'Lokaltog/vim-easymotion'
 
 "--------------
@@ -96,10 +96,11 @@ Bundle 'kien/rainbow_parentheses.vim'
 "--------------
 Bundle 'rickharris/vim-blackboard'
 Bundle 'altercation/vim-colors-solarized'
-Bundle 'rickharris/vim-monokai'
+"Bundle 'rickharris/vim-monokai'
+Bundle 'sickill/vim-monokai'
 Bundle 'tpope/vim-vividchalk'
 Bundle 'Lokaltog/vim-distinguished'
 Bundle 'chriskempson/vim-tomorrow-theme'
 Bundle 'fisadev/fisa-vim-colorscheme'
-
+Bundle 'vim-scripts/cscope.vim'
 filetype plugin indent on     " required!
